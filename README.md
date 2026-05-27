@@ -164,17 +164,19 @@ streamlit run app.py
 
 ## Home Screen
 
-![Home Screen](screenshots/home.png)
+# Screenshots
+
+## Home Screen
+
+<img src="screenshots/home.png" width="700"/>
 
 ## Chat Interface
 
-![Chat Interface](screenshots/chat.png)
+<img src="screenshots/chat.png" width="700"/>
 
 ## Retrieved Sources Sidebar
 
-![Retrieved Sources](screenshots/retrieval.png)
-
----
+<img src="screenshots/retrieval.png" width="700"/>
 
 # Future Improvements
 
